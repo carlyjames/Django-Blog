@@ -1,0 +1,217 @@
+body h1,
+footer .text-header,
+.text-change {
+    color: var(--header-color);
+}
+
+.card {
+    background-color: var(--body-background) !important;
+}
+
+@media (min-width: 768px) {
+    body {
+        padding-top: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        margin-left: 232px;
+    }
+}
+
+.navbar.fixed-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+
+@media (min-width: 768px) {
+    .navbar.fixed-left {
+        bottom: 0;
+        width: 232px;
+        flex-flow: column nowrap;
+        align-items: flex-start;
+    }
+
+    .navbar.fixed-left .navbar-collapse {
+        flex-grow: 0;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .navbar.fixed-left .navbar-collapse .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .navbar.fixed-left .navbar-collapse .navbar-nav .nav-item {
+        width: 100%;
+
+    }
+
+    .navbar.fixed-left .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
+        top: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar.fixed-left {
+        right: auto;
+    }
+
+    .navbar.fixed-left .navbar-nav .nav-item .dropdown-toggle:after {
+        border-top: 0.3em solid transparent;
+        border-left: 0.3em solid;
+        border-bottom: 0.3em solid transparent;
+        border-right: none;
+        vertical-align: baseline;
+    }
+
+    .navbar.fixed-left .navbar-nav .nav-item .dropdown-menu {
+        left: 100%;
+    }
+
+}
+
+nav,
+.card {
+    border: none !important;
+    box-shadow: none !important;
+    background: var(--nav-background);
+}
+
+#margin-top {
+    background-color: var(--body-background);
+    /* margin-top: 3rem; */
+    padding: 1rem;
+    padding-bottom: 0;
+    border-radius: 1rem 0 0 0;
+}
+
+.banner {
+    height: 60vh;
+    background: url(/img/bg/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg) center/cover;
+    border-radius: 1rem;
+    /* width: 97%; */
+}
+
+
+.navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: .3rem;
+    padding-left: .2rem;
+    cursor: pointer;
+    font-size: 1rem;
+    font-family: 'link';
+    color: white;
+    transition: all .1s ease;
+
+}
+
+.navbar-toggler-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--body-background);
+    color: white;
+}
+
+
+
+
+
+@media screen and (min-width: 1024px) {
+    .navbar-nav .nav-item.active {
+        background: var(--body-background);
+        border-radius: 1rem;
+        justify-content: flex-start;
+        /* text-align: center; */
+    }
+}
+
+
+  
+.automation-operator-item {
+    background: var(--nav-background) !important;
+    border-radius: 1rem !important;
+}
+
+.operator-name {
+    color: var(--operator-name);
+}
+
+.operator-column-ranking {
+    border-radius: 1rem 0 0 !important;
+    background: var(--numbering-background) !important;
+    color: white !important;
+}
+
+.operator-write-up {
+    border: 2px solid white;
+    color: rgb(239, 231, 231);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.operator-play-now {
+    background: var(--body-background);
+    border-radius: 0 0 0 0;
+
+}
+
+.operator-play-now:hover {
+    background: var(--link-hover-background);
+}
+
+.learn-more-btn {
+    background: var(--btn-background);
+    color: black !important;
+}
+
+.learn-more-btn:hover {
+    background: var(--btn-hover);
+    opacity: 1;
+}
+.navbar-nav .nav-item .nav-link{
+font-family: 'Source Sans Pro', sans-serif !important;
+}
+.market-data{
+border: 0 !important;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
+}
+.inp{
+    border: none;
+    outline: none;
+    background: #e6e6e6;
+    border-radius: .5rem;
+} 
+.fa-times{
+    color: red !important;
+}
+.left-nav a{
+    border: none;
+    /* background-color: red; */
+    border-top: none;
+    padding: .3rem;
+}
+.left-nav nav-item {
+    background-color: transparent;
+    border-radius: 1rem;
+    /* border: 1px solid #e9ecef !important; */
+    /* background-color: #F0B90B; */
+}
+.left-nav nav-item:hover{
+    background: #efebe9;
+}
+
+.card-img-top{
+    height: 300px;
+    object-fit: cover;
+}
+.card{
+    height:max-content;
+}

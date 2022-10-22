@@ -1,0 +1,477 @@
+.paypal_icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/paypal_ff3afeab.png');
+}
+.Exchanges {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Exchanges_215b43ec.png');
+}
+.category-exchanges-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-exchanges-icon_69c12700.png');
+}
+.cryptocurrency-exchanges-icon {
+    width: 128px; height: 128px; background: url('https://cryptolinks.com/includes/icons/cryptocurrency-exchanges-icon_2d64a5cd.png');
+}
+.category-news-sites-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-news-sites-icon_41accc4a.png');
+}
+.category-altcoin-protfoilo-tracking-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-altcoin-protfoilo-tracking-icon_57a584b1.png');
+}
+.category-android-wallets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-android-wallets-icon_9b58d04e.png');
+}
+.category-best-crypto-android-apps-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-best-crypto-android-apps-icon_fe45ce13.png');
+}
+.category-best-crypto-ios-apps-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-best-crypto-ios-apps-icon_3dffdd37.png');
+}
+.category-blockcain-fees-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-blockcain-fees-icon_95c47770.png');
+}
+.category-blockchain-meetups-events-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-blockchain-meetups-events-icon_a019b2df.png');
+}
+.category-blockchain-safety-security-icon {
+    width: 18px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-blockchain-safety-security-icon_5108c83f.png');
+}
+.category-blockchain-visual-presentation-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-blockchain-visual-presentation-icon_632580d6.png');
+}
+.category-buy-with-crypto-icon {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-buy-with-crypto-icon_f25a26be.png');
+}
+.category-crypto-accounting-icon {
+    width: 18px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-accounting-icon_4c167dad.png');
+}
+.category-crypto-advertising-networks-icon {
+    width: 21px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-advertising-networks-icon_7c68e18c.png');
+}
+.category-crypto-airdrops-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-airdrops-icon_ba76d734.png');
+}
+.category-crypto-analysis-charts-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-analysis-charts-icon_a1ccf14c.png');
+}
+.category-crypto-APIs-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-APIs-icon_35b425c2.png');
+}
+.category-crypto-beginner-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-beginner-icon_06ff12e0.png');
+}
+.category-crypto-blogs-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-blogs-icon_b6575607.png');
+}
+.category-crypto-books-icon {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/category-crypto-books-icon_cfc01764.png');
+}
+.category-crypto-calculators-icon {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-calculators-icon_73b7707a.png');
+}
+.category-crypto-calendars-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-calendars-icon_76a72922.png');
+}
+.category-crypto-CFD-trading_platforms-icon {
+    width: 21px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-CFD-trading_platforms-icon_20c6c327.png');
+}
+.category-crypto-charity-icon {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/category-crypto-charity-icon_1dd379e6.png');
+}
+.category-crypto-chrome-extensions-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-chrome-extensions-icon_e951ac4b.png');
+}
+.category-crypto-debit-and-credit-cards-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-crypto-debit-and-credit-cards-icon_9ff469d6.png');
+}
+.category-crypto-deep-knowledge-icon {
+    width: 22px; height: 18px; background: url('https://cryptolinks.com/includes/icons/category-crypto-deep-knowledge-icon_912e02ab.png');
+}
+.category-crypto-developer-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-developer-icon_b8b9d6c8.png');
+}
+.category-crypto-discord-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-discord-icon_d61a043e.png');
+}
+.category-crypto-documentaries-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-documentaries-icon_8741b8f0.png');
+}
+.category-crypto-exchange-data-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-exchange-data-icon_10664e19.png');
+}
+.category-crypto-facebook-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-facebook-icon_a8e251ba.png');
+}
+.category-crypto-for-merchant-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-crypto-for-merchant-icon_5c363470.png');
+}
+.category-crypto-forums-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-crypto-forums-icon_b7deec57.png');
+}
+.category-crypto-gambling-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-crypto-gambling-icon_c1da6c77.png');
+}
+.category-crypto-guides-and-courses-icon {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-guides-and-courses-icon_15d0dece.png');
+}
+.category-crypto-legal-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-legal-icon_8c0fad33.png');
+}
+.category-crypto-lending-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-lending-icon_7ee4412d.png');
+}
+.category-crypto-magazines-icon {
+    width: 20px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-magazines-icon_669f8027.png');
+}
+.category-crypto-medium-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-medium-icon_a61f280b.png');
+}
+.category-crypto-mining-marketplaces-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-mining-marketplaces-icon_e149170b.png');
+}
+.category-crypto-mining-pools-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-mining-pools-icon_657ba876.png');
+}
+.category-crypto-mining-software-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-mining-software-icon_4b84876c.png');
+}
+.category-crypto-news-agregators-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-news-agregators-icon_4e70faba.png');
+}
+.category-crypto-news-sites-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-news-sites-icon_78b23aca.png');
+}
+.category-crypto-podcasts-and-talks-icon {
+    width: 15px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-podcasts-and-talks-icon_1a481877.png');
+}
+.category-crypto-price-trackers-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-price-trackers-icon_2ac4c6ca.png');
+}
+.category-crypto-pro-icon {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/category-crypto-pro-icon_334e4618.png');
+}
+.category-crypto-reddits-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-reddits-icon_4db16b1d.png');
+}
+.category-crypto-stats-icon {
+    width: 22px; height: 21px; background: url('https://cryptolinks.com/includes/icons/category-crypto-stats-icon_91e9d194.png');
+}
+.category-crypto-ted-talks-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-ted-talks-icon_554a91a5.png');
+}
+.category-crypto-telegram-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-telegram-icon_81890a71.png');
+}
+.category-crypto-to-fiat-exchanges-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-to-fiat-exchanges-icon_8dfaf4d6.png');
+}
+.category-crypto-trade-bots-icon {
+    width: 20px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-trade-bots-icon_feeafa8b.png');
+}
+.category-crypto-trade-chats-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-trade-chats-icon_6a6dff76.png');
+}
+.category-crypto-trade-tools-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-trade-tools-icon_63974183.png');
+}
+.category-crypto-twitter-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-twitter-icon_43eeb338.png');
+}
+.category-crypto-video-knowledge-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-video-knowledge-icon_84ee3099.png');
+}
+.category-crypto-youtube-channels-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-crypto-youtube-channels-icon_1e8d9eb5.png');
+}
+.category-crypto-desktop-wallets-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-crypto-desktop-wallets-icon_9edfbda9.png');
+}
+.category-hardware-wallets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-hardware-wallets-icon_5f41943b.png');
+}
+.category-ios-wallets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-ios-wallets-icon_bed7b28b.png');
+}
+.category-local-exchanges-ATMs-icon {
+    width: 21px; height: 20px; background: url('https://cryptolinks.com/includes/icons/category-local-exchanges-ATMs-icon_decbec90.png');
+}
+.category-mining-know-how-icon {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-mining-know-how-icon_3bdd8251.png');
+}
+.category-multicurrency-walets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-multicurrency-walets-icon_33c97071.png');
+}
+.category-paper-wallets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-paper-wallets-icon_8bc5188b.png');
+}
+.category-top-altcoin-exchanges-icon {
+    width: 21px; height: 21px; background: url('https://cryptolinks.com/includes/icons/category-top-altcoin-exchanges-icon_9436622f.png');
+}
+.category-useful-tools-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-useful-tools-icon_8d83052a.png');
+}
+.category-web-wallets-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-web-wallets-icon_745c7f2a.png');
+}
+.category-ico-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-ico-icon_4751ef57.png');
+}
+.category-ico2-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/category-ico2-icon_8d14710d.png');
+}
+.Bitcoin-Tumbler-Mixer-icon-Sites {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Bitcoin-Tumbler-Mixer-icon-Sites_e0716ea3.png');
+}
+.Crypto-Margin-Trading-icon-sites {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto Margin Trading sites_9ae069d2.png');
+}
+.Altcoin-Protfolio-Tracking-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Altcoin-Protfolio-Tracking-icon-withe_6cebfaa9.png');
+}
+.Android-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Android-Wallets-icon-withe_51a73040.png');
+}
+.Best-Crypto-Android-Apps-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Best-Crypto-Android-Apps-icon-withe_53e59fdb.png');
+}
+.Best-Crypto-iOS-apps-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Best-Crypto-iOS-apps-icon-withe_7abf254b.png');
+}
+.Cryptocurrency-Exchanges-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Cryptocurrency-Exchanges-icon-withe_c9b937e8.png');
+}
+.Bitcoin-Tumbler-Mixer-Site-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Bitcoin-Tumbler-Mixer-Site-icon-withe_fd9425d9.png');
+}
+.Bitcoin-faucets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Bitcoin-faucets-icon-withe_95322767.png');
+}
+.BlockChain-Fees-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/BlockChain-Fees-icon-withe_190e4951.png');
+}
+.Blockchain-Meetups-Events-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Blockchain-Meetups-Events-icon-withe_a4ac8380.png');
+}
+.Blockchain-Safety-Security-icon-withe {
+    width: 18px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Blockchain-Safety-Security-icon-withe_b1767cde.png');
+}
+.BlockChain-Visual-Presentations-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/BlockChain-Visual-Presentations-icon-withe_d8e7a36d.png');
+}
+.Buy-With-Crypto-icon-withe {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Buy-With-Crypto-icon-withe_1233fe8a.png');
+}
+.Crypto-Margin-Trading-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Margin-Trading-icon-withe_8124fcf2.png');
+}
+.Crypto-Accounting-icon-withe {
+    width: 18px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Accounting-icon-withe_69d49741.png');
+}
+.Crypto-Advetising-Networks-icon-withe {
+    width: 21px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Advetising-Networks-icon-withe_7bdafe12.png');
+}
+.Crypto-Airdrops-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Airdrops-icon-withe_90695957.png');
+}
+.Crypto-Analysis-Charts-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Analysis-Charts-icon-withe_832c7cab.png');
+}
+.Crypto-APIs-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-APIs-icon-withe_8b3ba8a0.png');
+}
+.Crypto-Beginner-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Beginner-icon-withe_29d81e60.png');
+}
+.Crypto-Blogs-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Blogs-icon-withe_2d7bed54.png');
+}
+.Crypto-Books-icon-withe {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/Crypto-Books-icon-withe_87f92c9f.png');
+}
+.Crypto-Calculators-icon-withe {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Calculators-icon-withe_c73e6263.png');
+}
+.Crypto-Calendars-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Calendars-icon-withe_a3c5fb0a.png');
+}
+.Crypto-CFD-Trading-Platforms-icon-withe {
+    width: 21px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-CFD-Trading-Platforms-icon-withe_d4b10e9c.png');
+}
+.Crypto-Charity-icon-withe {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/Crypto-Charity-icon-withe_3e075abf.png');
+}
+.Crypto-Chrome-Extensions-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Chrome-Extensions-icon-withe_df187d89.png');
+}
+.Crypto-Credit-and-Debit-Cards-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Crypto-Credit-and-Debit-Cards-icon-withe_069b7e2c.png');
+}
+.Crypto-Deep-Knowledge-icon-withe {
+    width: 22px; height: 18px; background: url('https://cryptolinks.com/includes/icons/Crypto-Deep-Knowledge-icon-withe_4d4d9a5a.png');
+}
+.Crypto-Developer-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Developer-icon-withe_b0912efe.png');
+}
+.Crypto-Documentaries-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Documentaries-icon-withe_cee7a07e.png');
+}
+.Crypto-Exchange-Data-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Exchange-Data-icon-withe_6efdfa0c.png');
+}
+.Crypto-Facebook-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Facebook-icon-withe_685e0aef.png');
+}
+.Crypto-for-Merchant-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Crypto-for-Merchant-icon-withe_f2943f18.png');
+}
+.Crypto-Forums-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Crypto-Forums-icon-withe_d3e9de2b.png');
+}
+.Crypto-Gambling-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Crypto-Gambling-icon-withe_9dfc61d7.png');
+}
+.Crypto-Guides-and-Courses-icon-withe {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Guides-and-Courses-icon-withe_53bbca6f.png');
+}
+.Crypto-Legal-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Legal-icon-withe_e1e38fec.png');
+}
+.Crypto-Lending-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Lending-icon-withe_70d0555d.png');
+}
+.Crypto-Magazines-icon-withe {
+    width: 20px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Magazines-icon-withe_64d4ef9f.png');
+}
+.Crypto-Medium-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Medium-icon-withe_d03d859d.png');
+}
+.Crypto-Mining-Marketplace-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Mining-Marketplace-icon-withe_e9cf3539.png');
+}
+.Crypto-Mining-Pools-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Mining-Pools-icon-withe_074148bd.png');
+}
+.Crypto-Mining-Software-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Mining-Software-icon-withe_198ca997.png');
+}
+.Crypto-News-Aggregators-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-News-Aggregators-icon-withe_6d59e269.png');
+}
+.Crypto-News-Sites-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-News-Sites-icon-withe_1c5d7f24.png');
+}
+.Crypto-Price-Trackers-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Price-Trackers-icon-withe_4c29a3e8.png');
+}
+.Crypto-Podcasts-and-Talks-icon-withe {
+    width: 15px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Podcasts-and-Talks-icon-withe_d2c03edb.png');
+}
+.Crypto-Pro-icon-withe {
+    width: 22px; height: 19px; background: url('https://cryptolinks.com/includes/icons/Crypto-Pro-icon-withe_4552bae5.png');
+}
+.Crypto-Reddits-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Reddits-icon-withe_0130b3f0.png');
+}
+.Crypto-Stats-icon-withe {
+    width: 22px; height: 21px; background: url('https://cryptolinks.com/includes/icons/Crypto-Stats-icon-withe_8f61fcdd.png');
+}
+.Crypto-Ted-Talks-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Ted-Talks-icon-withe_656f5922.png');
+}
+.Crypto-Telegram-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Telegram-icon-withe_32c650d5.png');
+}
+.Crypto-to-Fiat-exchanges-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-to-Fiat-exchanges-icon-withe_a64e03f4.png');
+}
+.Crypto-Trade-Bots-icon-withe {
+    width: 20px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Trade-Bots-icon-withe_a43d5dd0.png');
+}
+.Crypto-Trade-Chats-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Trade-Chats-icon-withe_7ba605ab.png');
+}
+.Crypto-Trade-Tools-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Trade-Tools-icon-withe_7aa6e470.png');
+}
+.Crypto-Twitter-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Twitter-icon-withe_4300c386.png');
+}
+.Crypto-Video-Knowledge-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Video-Knowledge-icon-withe_6844c08c.png');
+}
+.Crypto-YouTube-Channels-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-YouTube-Channels-icon-withe_584069bc.png');
+}
+.Desktop-Wallets-icon-withe {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Desktop-Wallets-icon-withe_4a5bd1bb.png');
+}
+.Hardware-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Hardware-Wallets-icon-withe_b85e6f34.png');
+}
+.ICO-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/ICO-icon-withe_1cdb9d7c.png');
+}
+.iOS-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/iOS-Wallets-icon-withe_7bd90b20.png');
+}
+.Local-Exhanges-ATMs-icon-withe {
+    width: 21px; height: 20px; background: url('https://cryptolinks.com/includes/icons/Local-Exhanges-ATMs-icon-withe_4006b025.png');
+}
+.Mining-Know-how-icon-withe {
+    width: 19px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Mining-Know-how-icon-withe_20967ca4.png');
+}
+.MultiCurrency-Altcoin-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/MultiCurrency-Altcoin-Wallets-icon-withe_bd110d69.png');
+}
+.Paper-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Paper-Wallets-icon-withe_5b76369c.png');
+}
+.Top-Altcoin-Exchanges-icon-withe {
+    width: 21px; height: 21px; background: url('https://cryptolinks.com/includes/icons/Top-Altcoin-Exchanges-icon-withe_88222141.png');
+}
+.Useful-Tools-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Useful-Tools-icon-withe_d8ef20d8.png');
+}
+.Web-Wallets-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Web-Wallets-icon-withe_bfb917d8.png');
+}
+.Crypto-Discord-icon-withe {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Crypto-Discord-icon-withe_73e31fa7.png');
+}
+.decentralized-exchanges-defi-dex-token-swap-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Decentralized Finance, Decentralized Exchanges (DEXs) and Token Swap exchanges_7f92fc64.png');
+}
+.decentralized-exchanges-defi-dex-token-swap-icon-3 {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/decentralized-exchanges-defi-dex-token-swap-icon-3_e23f3b4b.png');
+}
+.decentralized-exchanges-defi-dex-token-swap-icon-245 {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/decentralized-exchanges-defi-dex-token-swap-icon-245_f53ce8a7.png');
+}
+.decentralized-exchanges-defi-dex-token-swap-icon-white {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/decentralized-exchanges-defi-dex-token-swap-icon-white_25e1d6e1.png');
+}
+.decentralized-games-nft-icon {
+    width: 22px; height: 20px; background: url('https://cryptolinks.com/includes/icons/decentralized-games-nft-icon_46ff9793.png');
+}
+.Initial-DEX-Offering-IDO-Launchpads-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/Initial-DEX-Offering-IDO-Launchpads-icon_9a8943e1.png');
+}
+.official-coin-sites-icon {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/official-coin-sites-icon_37a5029c.png');
+}
+.cloud-mining {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/cloud-mining_4ad777bd.png');
+}
+.metaverse-cryptolinks {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/metaverse-cryptolinks_bd55f416.png');
+}
+.web3 {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/web3_083d5c07.png');
+}
+.web30 {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/web30_8fedff37.png');
+}
+.web33 {
+    width: 22px; height: 22px; background: url('https://cryptolinks.com/includes/icons/web33_cb85240d.png');
+}
+.blockchain_explorers {
+    width: 22px; height: 21px; background: url('https://cryptolinks.com/includes/icons/blockchain_explorers_905a25b0.png');
+}

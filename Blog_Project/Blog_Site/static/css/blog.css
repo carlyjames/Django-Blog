@@ -1,0 +1,16 @@
+#scrolltop {
+	position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: .3rem 1rem;
+    background-color: var(--btn-background);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9999;
+    font-size: 1.5rem;
+    color: black;
+    cursor: pointer;
+    transition: all 1s cubic-bezier(0.95, 0.05, 0.795, 0.035)   ;
+}

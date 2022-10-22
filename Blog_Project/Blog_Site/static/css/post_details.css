@@ -1,0 +1,42 @@
+.back-to-home a {
+    text-decoration: none !important;
+}
+
+.back-to-home a:hover {
+    color: #f2a900;
+}
+
+.post-details-holder {
+    height: 500px;
+    width: 500px;
+}
+
+
+.card {
+    box-shadow: none;
+}
+
+.card-title h2 a {
+    font-size: 30px;
+    color: black;
+}
+
+.inp {
+    border: none;
+    outline: none;
+    background: #e6e6e6;
+    border-radius: .5rem;
+}
+
+.card-img-top {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.card {
+    max-height: 650px;
+}
+
+.post-header {
+    font-family: 'Roboto', sans-serif !important;
+}

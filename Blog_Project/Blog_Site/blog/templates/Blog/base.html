@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>BlogSpot | Blog</title>
+
+    <meta name="description" content="We are updated">
+
+    <!-- Google / Search Engine Tags -->
+    <meta itemprop="name" content="BlogSpot - Welcome to BlogSpot">
+    <meta itemprop="description" content="We are updated">
+
+    <script src="//cdn.jsdelivr.net/npm/medium-editor@latest/dist/js/medium-editor.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/medium-editor@latest/dist/css/medium-editor.min.css" type="text/css" media="screen" charset="utf-8">
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{% static 'img/icons/favicon.png' %}">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="shortcut icon" href="{% static '/img/icons/favicon.png' %}" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <link rel="stylesheet" id="theme_link"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.3.1/materia/bootstrap.min.css" />
+        <link rel="stylesheet" href="{% static '/css/bootstrap-4.6.1-dist/css/bootstrap.min.css' %}">
+        
+        
+        
+        
+
+        
+
+        <link rel="stylesheet" href="{% static '/css/style.css' %}">
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+
+
+
+</head>
+
+<style>
+  .navbar-toggler > .fa-x {
+        display: inline;
+    }
+
+  .navbar-toggler.collapsed > .fa-x, .navbar-toggler:not(.collapsed) > .fa-bars{
+      display: none;
+      transition: .1s ease-in-out;
+  }
+  .navbar a:hover{
+    transition: all .2s ease;
+    color: chartreuse;
+  }
+  .btn:hover{
+    color: black;
+  }
+  .navbar-nav .nav-item .nav-link{
+    font-family: 'Source Sans Pro', sans-serif !important;
+  }
+  .post-header{
+    font-family: 'Roboto', sans-serif !important;
+}
+</style>
+
+<body >
+
+
+  <nav class="navbar navbar-expand-lg text-gray-800 ml-1" id="navbar_topR" style="box-shadow: none;">
+    <a class="navbar-brand" href="{% url 'home' %}" style="color:chartreuse ;">
+      BlogSpot
+    </a>
+    
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- <span class="navbar-toggler-icon"></span> -->
+      <i class="fas fa-bars"></i>
+      <!-- <i class="fas fa-x"></i> -->
+    </button>
+
+
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+
+            <li class="nav-item">
+                <a class="nav-link text-header" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-header" href="#">Top Collections
+                  <i class="uil uil-apps"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-header" href="{% url 'post_list' %}">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-header" href="#">Contact Us</a>
+            </li>
+          
+        </ul>
+    </div>
+  </nav>
+
+
+
+
+  <div class="blog_posts">
+    {% block content %}
+    
+    {% endblock %}
+
+  </div>
+
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+  crossorigin="anonymous"></script>
+
+  <script src="https://widgets.coingecko.com/coingecko-beam-widget.js"></script>
+  <script src="https://widgets.coingecko.com/coingecko-coin-compare-chart-widget.js"></script>
+  <script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+
+  <script src="{% static 'js/widget.js' %}"></script>
+
+  <script type="text/javascript" src="{% static 'js/blog.js' %}"></script>
+
+  <script src="{% static 'js/scr.js' %}"></script>
+
+  <script>
+    var editor = new MediumEditor('.editable');
+
+  </script>
+
+</body>
+</html>

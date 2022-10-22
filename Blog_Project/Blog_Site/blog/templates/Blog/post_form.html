@@ -1,0 +1,55 @@
+<!-- {% extends 'blog/base.html' %} -->
+
+{% block content %}
+<style>
+
+    form .inputs{
+        /* width: max-content; */
+        background: #e9ecef;
+        padding-left: .5rem;
+        border-radius: .5rem;
+    }
+    form .inputs input,form .inputs .btn{
+        width: 80%;
+        border: none !important;
+        outline: none !important;
+        margin-top: .5rem;
+        border-radius: .5rem;
+    }
+    form label{
+        color: black;
+        font-weight: 500;
+    }
+</style>
+<body >
+    
+    
+    <h1 class="btn m-2 bg-soft-primary">New post
+        <i class="fas fa-edit"></i>
+    </h1>
+    <div class="container">
+
+        <form method="POST" class="post-form" >
+            <div class="inputs">
+                {% csrf_token %}
+                <br>
+                <br>
+                {{form.as_p}}
+                <button type="submit" 
+                class="btn  inline-block w-full text-center items-center py-3 font-medium rounded-lg shadow-sm bg-indigo-800 text-black learn-more-btn save mb-4" style="background: #F0B90B;">
+                Save
+                </button>
+        
+            </div>
+
+        </form>
+    </div>
+</body>
+
+
+    <script>
+        var editor = new MediumEditor('.editable');
+    
+    </script>
+
+{% endblock %}
